@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
 - Live Site URL: [https://ojara-profile-card.netlify.app/](https://ojara-profile-card.netlify.app/)
 
 ## My process
